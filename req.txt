@@ -24,7 +24,7 @@ django-progressive-web-app==0.1.1
 django-widget-tweaks==1.4.3
 easygui==0.98.1
 entrypoints==0.2.3
-Flask==1.1.dev0
+Flask==1.0
 Flask-Cors==3.0.7
 -e git+https://github.com/pallets/flask@86bf9dca72cd188813e26ef5dd972101ef8983cf#egg=flaskr&subdirectory=examples/tutorial
 gast==0.2.0
