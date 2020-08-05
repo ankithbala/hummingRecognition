@@ -30,9 +30,7 @@ $```pip install --upgrade pip```
 
    b.Verify the install: $```python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"```
    
-4. Install remaining packages from requirements.txt: 
-
-$```pip install -r requirements.txt```
+4. Install remaining packages from requirements.txt:  $```pip install -r requirements.txt```
 
 
 5.Run flask from hummingRecognition folder:$python app.py 
