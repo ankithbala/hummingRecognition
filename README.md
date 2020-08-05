@@ -16,7 +16,7 @@ $```pip install --upgrade pip```
 3. Install the TensorFlow pip package
 
 
-   For GPU and CPU support:
+   a.For GPU and CPU support:
    $```pip install --upgrade tensorflow```
    
    
@@ -28,10 +28,9 @@ $```pip install --upgrade pip```
    $```pip install --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow_cpu-2.3.0-cp38-cp38-win_amd64.whl```
 
 
-   Verify the install: $```python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"```
+   b.Verify the install: $```python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"```
    
 4. Install remaining packages from requirements.txt: 
-
 
 $```pip install -r requirements.txt```
 
