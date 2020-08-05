@@ -33,5 +33,6 @@ $```pip install --upgrade pip```
 4. Install remaining packages from requirements.txt:  $```pip install -r requirements.txt```
 
 
-5.Run flask from hummingRecognition folder:$```python app.py```
-	Paste the link in browser, if it doesn't open for http://0.0.0.0:5001/, Try http://localhost:5001/
+5. Run flask from hummingRecognition folder:$```python app.py```
+
+		Paste the link in browser, if it doesn't open for http://0.0.0.0:5001/, Try http://localhost:5001/
