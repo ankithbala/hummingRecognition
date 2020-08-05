@@ -34,6 +34,4 @@ $```pip install --upgrade pip```
 
 
 5.Run flask from hummingRecognition folder:$python app.py 
-
-
 	Paste the link in browser, if it doesn't open for http://0.0.0.0:5001/, Try http://localhost:5001/
